@@ -24,6 +24,9 @@
 ## TryHackMe:
 ![](https://tryhackme-badges.s3.amazonaws.com/cyb3rgir1.png)
 
+## HackTheBox:
+![](https://www.hackthebox.com/badge/image/628872)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=axitapatel2341&limit=5&theme=dracula&combine_all_yearly_contributions=true)
