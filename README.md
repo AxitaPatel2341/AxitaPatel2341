@@ -34,3 +34,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=axitapatel2341&icon=5&color=0)](https://visitcount.itsvg.in)
 
+<details>
+  <summary>📈 GitHub Statistics</summary>
+  
+  ![GitHub Statistics](https://komarev.com/ghpvc/?username=axxitapatel2341&label=Profile%20views&color=0e75b6&style=flat)
+  
+</details>
+
