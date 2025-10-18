@@ -1,5 +1,11 @@
 # 💫 About Me:
-I am a Security Engineer and just a Techie 👩‍💻 who loves to explore stuff. <br>I am a dedicated learner and a developer who switched to cyber security 🕵️‍♀️. <br>I like to work with Linux and Web FUNdamentals && love to play CTFs👽.
+- 🧑‍💻 I break stuff to build better defenses, one vulnerability at a time.
+- 🚀 Currently tackling CTFs on HackTheBox & TryHackMe — breaking, learning, and leveling up.
+- 🕵️‍♂️ When I'm not hunting bugs, I’m triaging bugs — ensuring nothing slips through the cracks.
+- 💬 Ask me about:
+  - Starting a career in cybersecurity: From getting started to leveling up in AppSec.
+  - CTF strategies: How to tackle challenges and improve your skills.
+  - Bug Bounties: My journey in vulnerability hunting and triaging.
 
 
 ## 🌐 Socials:
@@ -15,8 +21,9 @@ I am a Security Engineer and just a Techie 👩‍💻 who loves to explore stuf
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=axitapatel2341&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## TryHackMe:
+![](https://tryhackme-badges.s3.amazonaws.com/cyb3rgir1.png)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=axitapatel2341&limit=5&theme=dracula&combine_all_yearly_contributions=true)
