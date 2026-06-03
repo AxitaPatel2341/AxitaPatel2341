@@ -1,12 +1,17 @@
 # 💫 About Me:
-- 🧑‍💻 I break stuff to build better defenses, one vulnerability at a time.
-- 🚀 Currently tackling CTFs on HackTheBox & TryHackMe — breaking, learning, and leveling up.
-- 🕵️‍♂️ When I'm not hunting bugs, I’m triaging bugs — ensuring nothing slips through the cracks.
-- 💬 Ask me about:
-  - Starting a career in cybersecurity: From getting started to leveling up in AppSec.
-  - CTF strategies: How to tackle challenges and improve your skills.
-  - Bug Bounties: My journey in vulnerability hunting and triaging.
+- 🕵️ Finding bugs before the bad guys do.
+- 🌐 Breaking web apps in controlled environments and responsibly reporting the ones that break in production. 
+- 🚩 Grinding CTFs, chasing edge cases, and collecting screenshots developers never wanted anyone to see.
+- ☕ My recon runs longer than most Netflix series.
 
+### 💬 Ask Me About:
+- 🎯 AppSec, Web Exploitation & Vulnerability Research
+- 🚀 Getting Started in Cybersecurity
+- 🐞 Bug Bounties, Triaging & Report Writing
+- 🎮 HTB, THM & CTF Methodology
+- 🔍 Recon, Enumeration & Finding Needles in Digital Haystacks
+
+> Eat. Sleep. Recon. Repeat.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/axitapatel01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/axita-patel1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/axitapatel13) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@eyeforinfosec) 
